@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lpatronr.jetbrainsdimnighttheme.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lpatronr.jetbrainsdimnighttheme.MyBundle
 
 class MyProjectService(project: Project) {
 
