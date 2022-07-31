@@ -1,8 +1,19 @@
-<scheme name="Dim Night" version="1" parent_scheme="Darcula">
+<scheme name="Dim Night" version="2" parent_scheme="Darcula">
+    <option name="FONT_SCALE" value="1.0" />
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="Comic Code Ligatures" />
+        <option name="EDITOR_FONT_SIZE" value="16" />
+    </console-font>
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+        <option name="EDITOR_FONT_SIZE" value="16" />
+    </console-font>
+    <option name="CONSOLE_LIGATURES" value="true" />
+    <option name="CONSOLE_LINE_SPACING" value="1.1" />
     <colors>
         <option name="ADDED_LINES_COLOR" value="c3e88d" />
         <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-        <option name="CARET_COLOR" value="a855f7" />
+        <option name="CARET_COLOR" value="d4d4d4" />
         <option name="CARET_ROW_COLOR" value="2b2b2b" />
         <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
         <option name="DELETED_LINES_COLOR" value="f07178" />
@@ -273,7 +284,7 @@
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="959dcb" />
+                <option name="FOREGROUND" value="d4d4d4" />
             </value>
         </option>
         <option name="CONSOLE_OUTPUT">
@@ -291,7 +302,7 @@
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="959dcb" />
+                <option name="FOREGROUND" value="d4d4d4" />
             </value>
         </option>
         <option name="CONSOLE_USER_INPUT">
@@ -454,13 +465,11 @@
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="fddd6c" />
-                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
                 <option name="FOREGROUND" value="727b86" />
-                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_BRACES">
@@ -576,7 +585,6 @@
         <option name="DEFAULT_LINE_COMMENT">
             <value>
                 <option name="FOREGROUND" value="727b86" />
-                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
@@ -1027,6 +1035,9 @@
         </option>
         <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+        <option name="HTML_CODE">
+            <value />
+        </option>
         <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
         <option name="HTML_TAG">
             <value>
@@ -2706,8 +2717,7 @@
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="6f769d" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FOREGROUND" value="797979" />
             </value>
         </option>
         <option name="OC.BLOCK_COMMENT">
@@ -3676,9 +3686,9 @@
                 <option name="FOREGROUND" value="f07178" />
             </value>
         </option>
-        <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-        <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="XPATH.KEYWORD" baseAttributes="" />
+        <option name="XPATH.XPATH_NAME" baseAttributes="" />
+        <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
         <option name="YAML_SCALAR_KEY">
             <value>
                 <option name="FOREGROUND" value="f07178" />
