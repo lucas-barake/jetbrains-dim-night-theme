@@ -1,0 +1,102 @@
+{
+  "author": "lpatronr",
+  "dark": true,
+  "name": "Dim Night",
+  "editorScheme": "/theme/dimNight.xml",
+  "colors": {
+    "purple": "#7c3aed",
+    "darkgray": "#212121",
+    "gray": "#242424",
+    "lightgray": "#353535",
+    "lightergray": "#4d4d4d",
+    "white": "#e1e4e8",
+    "dullblue": "#282e34",
+    "red": "#ff0000",
+    "green": "#00ff00",
+    "blue": "#0000ff"
+  },
+  "ui": {
+    "*": {
+      "background": "darkgray",
+      "foreground": "white",
+      "infoForeground": "#white"
+    },
+    "Borders": {
+      "color": "darkgray",
+      "ContrastBorderColor": "darkgray"
+    },
+    "Panel.background": "gray",
+    "SidePanel.background": "gray",
+    "SearchEverywhere": {
+      "Advertiser.foreground": "white",
+      "Header.background": "lightgray",
+      "SearchField": {
+        "background": "gray",
+        "borderColor": "darkgray"
+      },
+      "Tab": {
+        "selectedForeground": "white",
+        "selectedBackground": "gray"
+      }
+    },
+    "TabbedPane": {
+      "underlineColor": "purple",
+      "contentAreaColor": "#323844",
+      "hoverColor": "lightgray"
+    },
+    "SplitPane.background": "gray",
+    "SplitPane.highlight": "darkgray",
+    "ToolWindow.Header.inactiveBackground": "darkgray",
+    "Group.separatorColor": "darkgray",
+    "MenuBar.borderColor": "darkgray",
+    "NavBar.borderColor": "darkgray",
+    "Plugins.SearchField.borderColor": "darkgray",
+    "Separator.separatorColor": "darkgray",
+    "EditorTabs.underlinedTabBackground": "lightgray",
+    "EditorTabs.inactiveUnderlineColor": "gray",
+    "EditorTabs.underlineColor": "purple",
+    "StatusBar.borderColor": "gray",
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#282c35",
+        "hoveredBackground": "#2c313c",
+        "unmatchedForeground": "#5c6370"
+      },
+      "RefLabel": {
+        "backgroundBrightness": 0.3,
+        "backgroundBase": "#5c6370",
+        "foreground": "white"
+      }
+    },
+    "CheckBoxMenuItem.selectionBackground": "dullblue",
+    "ComboBox.selectionBackground": "dullblue",
+    "EditorPane.selectionBackground": "dullblue",
+    "FormattedTextField.selectionBackground": "dullblue",
+    "List.selectionBackground": "dullblue",
+    "Menu.selectionBackground": "dullblue",
+    "MenuItem.selectionBackground": "dullblue",
+    "PasswordField.selectionBackground": "dullblue",
+    "ProgressBar.selectionBackground": "dullblue",
+    "RadioButtonMenuItem.selectionBackground": "dullblue",
+    "Table.selectionBackground": "dullblue",
+    "TextArea.selectionBackground": "dullblue",
+    "TextField.selectionBackground": "dullblue",
+    "TextPane.selectionBackground": "dullblue",
+    "Tree.selectionBackground": "dullblue",
+
+    "List.selectionInactiveBackground": "#30353B",
+    "Tree.selectionInactiveBackground": "#30353B",
+
+    "Button.default.endBackground": "purple",
+    "Button.default.startBackground": "purple",
+    "Button.default.endBorderColor": "gray",
+    "Button.default.startBorderColor": "gray",
+    "Button.background": "gray",
+    "Button.default.focusedBorderColor": "purple",
+    "Button.default.focusColor": "darkgray",
+
+    "Menu.background": "gray",
+    "Menu.borderColor": "gray",
+    "Menu.separatorColor": "lightergray"
+  }
+}
