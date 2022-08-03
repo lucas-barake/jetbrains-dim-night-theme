@@ -1,4 +1,4 @@
-<scheme name="Dim Night" version="2" parent_scheme="Darcula">
+<scheme name="Dim Night" version="3" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <console-font>
         <option name="EDITOR_FONT_NAME" value="Comic Code Ligatures" />
@@ -1037,6 +1037,11 @@
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="HTML_CODE">
             <value />
+        </option>
+        <option name="HTML_CUSTOM_TAG_NAME">
+            <value>
+                <option name="FOREGROUND" value="fb923c" />
+            </value>
         </option>
         <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
         <option name="HTML_TAG">
@@ -3683,7 +3688,7 @@
         <option name="XML_TAG_DATA" baseAttributes="TEXT" />
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="f07178" />
+                <option name="FOREGROUND" value="f43f5e" />
             </value>
         </option>
         <option name="XPATH.KEYWORD" baseAttributes="" />
@@ -3691,7 +3696,7 @@
         <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
         <option name="YAML_SCALAR_KEY">
             <value>
-                <option name="FOREGROUND" value="f07178" />
+                <option name="FOREGROUND" value="f43f5e" />
             </value>
         </option>
         <option name="YAML_SCALAR_LIST">
