@@ -2,6 +2,10 @@
 
 A dark theme for JetBrains IDEs that provides a dim, night-friendly color scheme for comfortable coding in low-light environments.
 
+<!-- Plugin description -->
+Dim Night Theme is a carefully crafted dark color scheme designed for JetBrains IDEs. It offers a soothing, low-contrast palette that reduces eye strain during late-night coding sessions or in dimly lit environments. With its thoughtfully selected colors, this theme enhances code readability while maintaining a professional and elegant look. Perfect for developers who prefer a darker, more subdued coding environment without sacrificing clarity or aesthetics.
+<!-- Plugin description end -->
+
 ## Installation
 
 As this plugin is not yet published to the JetBrains Marketplace, you'll need to build it manually and install it from a local file.
@@ -48,7 +52,7 @@ After installation:
 
 ## Compatibility
 
-Supported versions: 2021.1 (Build 211) to 2024.1 (Build 241.\*)
+Supported versions: 2021.1 (Build 211) to 2024.1 (Build 241.*)
 
 ## License
 
