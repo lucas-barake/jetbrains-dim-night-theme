@@ -50,10 +50,6 @@ After installation:
 2. In the `Theme` dropdown, select "Dim Night".
 3. Click `Apply` and then `OK`.
 
-## Compatibility
-
-Supported versions: 2021.1 (Build 211) to 2024.1 (Build 241.*)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

@@ -538,17 +538,17 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="fb923c" />
+                <option name="FOREGROUND" value="ff9b54" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="fb923c" />
+                <option name="FOREGROUND" value="FF9B54" />
             </value>
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="f472b6" />
+                <option name="FOREGROUND" value="FF767A" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -1040,7 +1040,7 @@
         </option>
         <option name="HTML_CUSTOM_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="fb923c" />
+                <option name="FOREGROUND" value="ff9b54" />
             </value>
         </option>
         <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -1240,7 +1240,7 @@
         </option>
         <option name="JS.GLOBAL_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="fb923c" />
+                <option name="FOREGROUND" value="ff9b54" />
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
@@ -1388,7 +1388,7 @@
         </option>
         <option name="KOTLIN_TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="f78c6c" />
+                <option name="FOREGROUND" value="FF77BD" />
             </value>
         </option>
         <option name="KOTLIN_VARIABLE_AS_FUNCTION">
@@ -3607,7 +3607,7 @@
         </option>
         <option name="TS.TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="78ccf0" />
+                <option name="FOREGROUND" value="FF77BD" />
             </value>
         </option>
         <option name="TWIG_BACKGROUND">
@@ -3729,7 +3729,7 @@
         </option>
         <option name="org.rust.TYPE_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="f78c6c" />
+                <option name="FOREGROUND" value="FF77BD" />
             </value>
         </option>
         <option name="org.rust.UNSAFE_CODE">
